@@ -2,7 +2,7 @@
 
 ## Installation
 
-Install the required dependencies:
+Install the required dependencies: ipywidgets, plotly, numpy, copy, gurobipy
 
 **Note**: Gurobi requires a valid license. Install via:
 - Academic license: [gurobi.com/academia](https://www.gurobi.com/academia)
