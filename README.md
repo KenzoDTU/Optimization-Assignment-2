@@ -24,7 +24,8 @@ Install the required dependencies: ipywidgets, plotly, numpy, copy, gurobipy
 
 ## Files
 
-- `Models-FRAN.ipynb` - Complete implementation (Models 1-3 + dashboards)
+- `Models.ipynb` - Complete implementation (Models 1-3 + dashboards)
+- `Optimization in Power Systems.pptx` - Our current visualizations and powerpoint for the phase 5 presentation.
 - This `README.md` - Reproduction instructions
 
 **Ready in <2 minutes after dependencies!**
